@@ -1,0 +1,64 @@
+edgewise License
+
+Copyright (c) 2026 Vijai Kumar S. All rights reserved.
+
+edgewise ("the Software") comprises the edgewise source code, the library
+and the commands built from it, and their documentation. It is closed
+source and is licensed, not sold.
+
+1. Source code
+
+The source code is confidential. No right to use, copy, modify, merge,
+publish, distribute, sublicense or sell it, or to make works derived from
+it, is granted except with the copyright holder's written permission.
+
+2. Binaries: free for non-commercial use
+
+The copyright holder grants you a free, non-exclusive, non-transferable,
+revocable license to install and run the released executables of the
+Software ("the Binaries") for non-commercial purposes only: personal use,
+teaching, and academic research whose results are not sold. Meshes and
+other results you make with the Binaries under this license are yours.
+
+3. No commercial use
+
+This license does not permit commercial use: use by or for a business, in
+paid work, in producing goods or services that are sold, or in commercial
+research. The copyright holder does not offer commercial licenses for the
+Software. Anyone who needs it beyond non-commercial use may contact the
+copyright holder, who may, but need not, give written permission case by
+case.
+
+4. Restrictions
+
+Except with the copyright holder's written permission, you may not:
+  (a) copy, redistribute, rent, lend, sell or sublicense the Binaries, or
+      make them available to others, including over a network;
+  (b) modify, adapt or translate the Binaries, or make works derived from
+      them;
+  (c) reverse engineer, decompile or disassemble the Binaries, or attempt
+      to recover their source code, except to the extent that applicable
+      law expressly permits it notwithstanding this limitation;
+  (d) remove or alter this license or any notice of copyright.
+
+5. Termination
+
+This license ends automatically if you break any of its terms. You must
+then stop using the Software and delete every copy of it.
+
+6. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. YOU ARE RESPONSIBLE
+FOR CHECKING THAT ITS RESULTS ARE FIT FOR YOUR USE, INCLUDING ANY PART
+MANUFACTURED OR ANY ANALYSIS RUN FROM THEM.
+
+7. Limitation of liability
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+Contact: vijai@meshing.engineer
