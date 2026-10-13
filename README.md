@@ -26,12 +26,14 @@ edgewise repair scan.stl clean.stl               # fill holes, remove crossings
 edgewise remesh part.stl even.stl -size 2        # even triangles
 edgewise remesh part.stl quads.obj -size 1% -quads
 edgewise wrap broken.stl closed.stl -alpha 0.5%  # a valid solid from anything
+edgewise denoise scan.stl smooth.stl             # remove noise, keep sharp edges
 edgewise hollow part.stl shell.stl -wall 2 -drain 0,0,0,1.5
 ```
 
 Also `cut`, `defeature`, `thickness`, `boolean`, `assemble`, `reconstruct` and
-`convert`. `edgewise -h` lists the commands, and
-`edgewise <command> -h` a command's flags. Files are STL, OBJ, OFF or PLY.
+`convert`; `license` prints the license and `version` the version.
+`edgewise -h` lists the commands, and `edgewise <command> -h` a command's
+flags. Files are STL, OBJ, OFF or PLY.
 
 ## License
 
