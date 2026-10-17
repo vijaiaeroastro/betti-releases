@@ -61,4 +61,18 @@ OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
 
+8. Sign-in and usage information
+
+Released Binaries use licensebox.dev to verify access to their features.
+Sign-in records your verified email address, stated purpose, accepted
+terms version, installation public key, operating system, architecture
+and app version. Access requests include the modules requested and the
+note you supply; the product's administrators receive and answer them.
+
+When usage collection is enabled, the Binaries report command names,
+success and failure counts, durations, app version and operating system,
+associated with your signed-in account and installation. Usage reports
+exclude file names, arguments and geometry. Counts are queued locally
+and sent with a later licence check; signing out discards queued counts.
+
 Contact: vijai@meshing.engineer
