@@ -69,6 +69,13 @@ terms version, installation public key, operating system, architecture
 and app version. Access requests include the modules requested and the
 note you supply; the product's administrators receive and answer them.
 
+Machine recognition also uses a product-specific hash derived locally
+from operating-system or firmware identity. Raw system identifiers are
+not transmitted. The hash binds the installation and its offline lease
+to that machine and is retained by the licensing service. Where location
+restrictions are configured, the service checks the connection's
+approximate IP location when authorizing access.
+
 When usage collection is enabled, the Binaries report command names,
 success and failure counts, durations, app version and operating system,
 associated with your signed-in account and installation. Usage reports
