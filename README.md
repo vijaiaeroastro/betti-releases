@@ -46,5 +46,8 @@ a command's flags. Meshes are read from OBJ, OFF, PLY, Gmsh .msh, VTK .vtu,
 
 Betti is closed source; see [LICENSE](LICENSE). The binaries here are
 free for non-commercial use: personal use, teaching and academic research.
-Commercial use is not licensed; for anything beyond non-commercial use,
-contact vijai@meshing.engineer.
+Commercial use is not licensed, and there is no commercial offering.
+Because of the author's employment and possible conflicts of interest, a
+request for use beyond these terms is considered only rarely, case by
+case, and most will be declined; if your case is exceptional, write to
+vijai@meshing.engineer.
